@@ -1,4 +1,5 @@
-# Projet d'Apprentissage de Spring Security
+# SPRING-SECU
+## Projet d'Apprentissage de Spring Security
 
 Ce projet est conçu pour vous aider à maîtriser Spring Security. Il inclut divers exemples et cas d'utilisation démontrant comment implémenter la sécurité dans une application Spring.
 
